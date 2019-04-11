@@ -21,7 +21,7 @@ span {
 
 input[type="radio"] + label::before,
 input[type="checkbox"] + label::before,
-texterea,
+textarea,
 select,
 input {
   border-color: #6e8c62;
@@ -37,7 +37,7 @@ footer {
   color: #fff;
 }
 
-texterea {
+textarea {
   min-height: 10em;
 }
 
