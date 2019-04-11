@@ -41,6 +41,6 @@ textera {
   min-height: 10em;
 }
 
-.spacegrid div:nth-hild(odd) {
+.spacegrid div:nth-child(odd) {
   padding-right: 1.5em;
 }
