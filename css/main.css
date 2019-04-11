@@ -15,6 +15,10 @@ span {
   color: #70ad55;
 }
 
+.btn {
+  background-color: #70ad55;
+}
+
 input[type="radio"] + label::before,
 input[type="checkbox"] + label::before,
 textarea,
