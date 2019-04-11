@@ -1,3 +1,46 @@
 html {
-  font-family: "Noto", serif;
+  font-family: "Noto Serif", serif;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #70ad55;
+  color: #fff;
+}
+
+fieldset {
+  border: 0;
+}
+
+span {
+  color: #70ad55;
+}
+
+input[type="radio"] + label::before,
+input[type="checkbox"] + label::before,
+textera,
+select,
+input {
+  border-color: #6e8c62;
+}
+
+hr {
+  border-color: #70ad55;
+  opacity: .4;
+}
+
+footer {
+  background-color: #70ad55;
+  color: #fff;
+}
+
+textera {
+  min-height: 10em;
+}
+
+.spacegrid div:nth-hild(odd) {
+  padding-right: 1.5em;
 }
